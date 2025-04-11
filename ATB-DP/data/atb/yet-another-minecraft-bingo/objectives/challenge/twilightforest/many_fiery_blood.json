@@ -1,0 +1,9 @@
+{
+    "type": "item",
+    "item": "twilightforest:fiery_blood",
+    "count": {
+        "type": "random",
+        "min": 8,
+        "max": 18
+    }
+}

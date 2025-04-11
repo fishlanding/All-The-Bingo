@@ -1,0 +1,16 @@
+{
+    "type": "all_of",
+    "display": {
+        "name": {
+            "text": "钢叶大师"
+        },
+        "item": "twilightforest:steeleaf_sword"
+    },
+    "objectives": [
+        "twilightforest:steeleaf_sword",
+        "twilightforest:steeleaf_pickaxe",
+        "twilightforest:steeleaf_axe",
+        "twilightforest:steeleaf_shovel",
+        "twilightforest:steeleaf_hoe"
+    ]
+}

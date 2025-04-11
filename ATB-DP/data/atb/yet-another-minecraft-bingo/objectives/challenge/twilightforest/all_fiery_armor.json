@@ -1,0 +1,19 @@
+{
+  "type": "all_of",
+  "display": {
+    "name": {
+      "text": "炽铁小人",
+      "color": "dark_red"
+    },
+    "item": "twilightforest:fiery_chestplate"
+  },
+  "objectives": [
+    "twilightforest:fiery_helmet",
+    "twilightforest:fiery_chestplate",
+    "twilightforest:fiery_leggings",
+    "twilightforest:fiery_boots"
+  ],
+  "conflictsWith": [
+    "twilightforest:fiery_set"
+  ]
+}

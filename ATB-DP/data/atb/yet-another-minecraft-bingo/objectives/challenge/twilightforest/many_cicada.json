@@ -1,0 +1,9 @@
+{
+    "type": "item",
+    "item": "twilightforest:cicada",
+    "count": {
+        "type": "random",
+        "min": 4,
+        "max": 12
+    }
+}

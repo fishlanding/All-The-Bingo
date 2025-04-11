@@ -1,0 +1,15 @@
+{
+    "type": "all_of",
+    "display": {
+        "name": {
+            "text": "钢叶小人"
+        },
+        "item": "twilightforest:steeleaf_chestplate"
+    },
+    "objectives": [
+        "twilightforest:steeleaf_helmet",
+        "twilightforest:steeleaf_chestplate",
+        "twilightforest:steeleaf_leggings",
+        "twilightforest:steeleaf_boots"
+    ]
+}

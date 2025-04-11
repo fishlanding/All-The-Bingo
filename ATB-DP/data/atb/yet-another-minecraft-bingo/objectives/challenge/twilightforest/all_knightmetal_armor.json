@@ -1,0 +1,15 @@
+{
+    "type": "all_of",
+    "display": {
+        "name": {
+            "text": "骑士！"
+        },
+        "item": "twilightforest:knightmetal_chestplate"
+    },
+    "objectives": [
+        "twilightforest:knightmetal_helmet",
+        "twilightforest:knightmetal_chestplate",
+        "twilightforest:knightmetal_leggings",
+        "twilightforest:knightmetal_boots"
+    ]
+}

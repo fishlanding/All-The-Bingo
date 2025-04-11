@@ -1,12 +1,28 @@
 {
     "values": [],
     "S": [
-        "twilightforest:charm_of_keeping_3"
+        "twilightforest:charm_of_keeping_3",
+        "twilightforest:magic_beans",
+        "twilightforest:lamp_of_cinders",
+        "twilightforest:mazebreaker_pickaxe",
+        "twilightforest:crumble_horn",
+        "twilightforest:snow_queen_trophy",
+        "twilightforest:quest_ram_trophy",
+        "进度",
+        "twilightforest:arborist",
+        "twilightforest:experiment_115_115",
+        "twilightforest:experiment_115_self_replenishing",
+        "twilightforest:fiery_set",
+        "twilightforest:full_mettle_alchemist",
+        "twilightforest:hydra_chop",
+        "twilightforest:hydra_trophy",
+        "twilightforest:twilight_dinner",
+        "twilightforest:quest_ram",
+        "twilightforest:lich_scepters"
     ],
     "A": [
         "twilightforest:mangrove_root",
         "twilightforest:maze_map_focus",
-        "twilightforest:mazebreaker_pickaxe",
         "twilightforest:hedge",
         "twilightforest:giant_sword",
         "twilightforest:giant_pickaxe",
@@ -18,7 +34,37 @@
         "twilightforest:fiery_leggings",
         "twilightforest:fiery_boots",
         "twilightforest:fiery_sword",
-        "twilightforest:fiery_pickaxe"
+        "twilightforest:fiery_pickaxe",
+        "twilightforest:ice_bomb",
+        "twilightforest:alpha_yeti_fur",
+        "twilightforest:yeti_helmet",
+        "twilightforest:yeti_chestplate",
+        "twilightforest:yeti_leggings",
+        "twilightforest:yeti_boots",
+        "twilightforest:alpha_yeti_trophy",
+        "twilightforest:triple_bow",
+        "twilightforest:seeker_bow",
+        "twilightforest:ice_bow",
+        "twilightforest:ender_bow",
+        "twilightforest:transformation_powder",
+        "twilightforest:ore_magnet",
+        "twilightforest:peacock_feather_fan",
+        "twilightforest:giant_cobblestone",
+        "twilightforest:giant_log",
+        "twilightforest:giant_leaves",
+        "twilightforest:giant_obsidian",
+        "进度",
+        "twilightforest:arctic_armor_dyed",
+        "twilightforest:beanstalk",
+        "twilightforest:experiment_115",
+        "twilightforest:ghast_trap",
+        "twilightforest:naga_armors",
+        "atb:challenge/twilightforest/all_fiery_armor",
+        "atb:challenge/twilightforest/all_knightmetal_armor",
+        "atb:challenge/twilightforest/all_yeti_armor",
+        "atb:challenge/twilightforest/all_giant_tool",
+        "atb:challenge/twilightforest/many_fiery_blood",
+        "atb:challenge/twilightforest/many_alpha_yeti_fur"
     ],
     "B": [
         "twilightforest:raw_meef",
@@ -28,8 +74,6 @@
         "twilightforest:minoshroom_trophy",
         "twilightforest:moonworm_queen",
         "twilightforest:charm_of_keeping_2",
-        "twilightforest:hydra_chop",
-        "twilightforest:hydra_trophy",
         "twilightforest:fiery_blood",
         "twilightforest:armor_shard",
         "twilightforest:armor_shard_cluster",
@@ -55,7 +99,20 @@
         "twilightforest:arctic_helmet",
         "twilightforest:arctic_chestplate",
         "twilightforest:arctic_leggings",
-        "twilightforest:arctic_boots"
+        "twilightforest:arctic_boots",
+        "进度",
+        "twilightforest:giants",
+        "twilightforest:kill_cicada",
+        "twilightforest:troll",
+        "atb:challenge/twilightforest/many_cicada",
+        "atb:challenge/twilightforest/all_ironwood_armor",
+        "atb:challenge/twilightforest/all_ironwood_tool",
+        "atb:challenge/twilightforest/all_steeleaf_armor",
+        "atb:challenge/twilightforest/all_steeleaf_tool",
+        "atb:challenge/twilightforest/all_arctic_armor",
+        "atb:challenge/twilightforest/many_cooked_meef",
+        "atb:challenge/twilightforest/many_ironwood_ingot",
+        "atb:challenge/twilightforest/many_arctic_fur"
     ],
     "C": [
         "twilightforest:naga_scale",
@@ -109,7 +166,12 @@
         "twilightforest:cracked_towerwood",
         "twilightforest:mossy_towerwood",
         "twilightforest:infested_towerwood",
-        "twilightforest:reappearing_block"
+        "twilightforest:reappearing_block",
+        "进度",
+        "twilightforest:hedge",
+        "twilightforest:hill1",
+        "twilightforest:hill2",
+        "twilightforest:hill3"
     ],
     "D": [
         "twilightforest:twilight_oak_log",
@@ -139,7 +201,9 @@
         "twilightforest:mushgloom",
         "twilightforest:canopy_chest",
         "twilightforest:twilight_oak_chest",
-        "twilightforest:liveroot"
+        "twilightforest:liveroot",
+        "twilightforest:huge_lily_pad",
+        "twilightforest:huge_water_lily"
     ],
     "groups": [
         [
@@ -315,6 +379,74 @@
             "twilightforest:arctic_chestplate",
             "twilightforest:arctic_leggings",
             "twilightforest:arctic_boots"
+        ],
+        [
+            "twilightforest:alpha_yeti_fur",
+            "twilightforest:yeti_helmet",
+            "twilightforest:yeti_chestplate",
+            "twilightforest:yeti_leggings",
+            "twilightforest:yeti_boots"
+        ],
+        [
+            "twilightforest:triple_bow",
+            "twilightforest:seeker_bow",
+            "twilightforest:ice_bow",
+            "twilightforest:ender_bow"
+        ],
+        [
+            "twilightforest:alpha_yeti_trophy",
+            "twilightforest:quest_ram_trophy"
+        ],
+        [
+            "twilightforest:naga_trophy",
+            "twilightforest:lich_trophy"
+        ],
+        [
+            "twilightforest:minoshroom_trophy",
+            "twilightforest:hydra_trophy"
+        ],
+        [
+            "twilightforest:knight_phantom_trophy",
+            "twilightforest:ur_ghast_trophy"
+        ],
+        [
+            "twilightforest:experiment_115",
+            "twilightforest:experiment_115_115",
+            "twilightforest:experiment_115_self_replenishing"
+        ],
+        [
+            "twilightforest:hill1",
+            "twilightforest:hill2",
+            "twilightforest:hill3"
+        ],
+        [
+            "atb:challenge/twilightforest/all_ironwood_armor",
+            "atb:challenge/twilightforest/all_ironwood_tool",
+            "atb:challenge/twilightforest/many_ironwood_ingot"
+        ],
+        [
+            "atb:challenge/twilightforest/all_steeleaf_armor",
+            "atb:challenge/twilightforest/all_steeleaf_tool"
+        ],
+        [
+            "atb:challenge/twilightforest/many_fiery_blood",
+            "twilightforest:fiery_blood"
+        ],
+        [
+            "atb:challenge/twilightforest/many_cooked_meef",
+            "twilightforest:cooked_meef"
+        ],
+        [
+            "twilightforest:knightmetal_ingot",
+            "atb:challenge/twilightforest/many_knightmetal_ingot"
+        ],
+        [
+            "twilightforest:arctic_fur",
+            "atb:challenge/twilightforest/many_arctic_fur"
+        ],
+        [
+            "twilightforest:alpha_yeti_fur",
+            "atb:challenge/twilightforest/many_alpha_yeti_fur"
         ]
     ]
 }

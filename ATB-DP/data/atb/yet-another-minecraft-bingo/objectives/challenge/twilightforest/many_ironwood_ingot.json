@@ -1,0 +1,9 @@
+{
+    "type": "item",
+    "item": "twilightforest:ironwood_ingot",
+    "count": {
+        "type": "random",
+        "min": 12,
+        "max": 24
+    }
+}

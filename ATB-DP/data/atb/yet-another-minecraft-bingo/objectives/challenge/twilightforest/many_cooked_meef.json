@@ -1,0 +1,9 @@
+{
+  "type": "item",
+  "item": "twilightforest:cooked_meef",
+  "count": {
+    "type": "random",
+    "min": 12,
+    "max": 24
+  }
+}

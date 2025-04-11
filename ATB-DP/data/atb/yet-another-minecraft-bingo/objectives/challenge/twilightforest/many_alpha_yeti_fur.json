@@ -1,0 +1,9 @@
+{
+    "type": "item",
+    "item": "twilightforest:alpha_yeti_fur",
+    "count": {
+        "type": "random",
+        "min": 8,
+        "max": 12
+    }
+}

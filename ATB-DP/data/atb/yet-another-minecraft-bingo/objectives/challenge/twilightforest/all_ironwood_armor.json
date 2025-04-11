@@ -1,0 +1,15 @@
+{
+    "type": "all_of",
+    "display": {
+        "name": {
+            "text": "铁木小人"
+        },
+        "item": "twilightforest:ironwood_chestplate"
+    },
+    "objectives": [
+        "twilightforest:ironwood_helmet",
+        "twilightforest:ironwood_chestplate",
+        "twilightforest:ironwood_leggings",
+        "twilightforest:ironwood_boots"
+    ]
+}

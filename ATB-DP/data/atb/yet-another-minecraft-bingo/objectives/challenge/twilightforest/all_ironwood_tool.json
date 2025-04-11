@@ -1,0 +1,16 @@
+{
+    "type": "all_of",
+    "display": {
+        "name": {
+            "text": "铁木大师"
+        },
+        "item": "twilightforest:ironwood_swood"
+    },
+    "objectives": [
+        "twilightforest:ironwood_sword",
+        "twilightforest:ironwood_pickaxe",
+        "twilightforest:ironwood_axe",
+        "twilightforest:ironwood_shovel",
+        "twilightforest:ironwood_hoe",
+    ]
+}

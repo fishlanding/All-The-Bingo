@@ -1,0 +1,15 @@
+{
+    "type": "all_of",
+    "display": {
+        "name": {
+            "text": "好暖和！"
+        },
+        "item": "twilightforest:arctic_chestplate"
+    },
+    "objectives": [
+        "twilightforest:arctic_helmet",
+        "twilightforest:arctic_chestplate",
+        "twilightforest:arctic_leggings",
+        "twilightforest:arctic_boots"
+    ]
+}
